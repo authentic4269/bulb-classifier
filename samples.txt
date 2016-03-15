@@ -1,0 +1,9 @@
+./samples/11.jpg.vec
+./samples/41.jpg.vec
+./samples/9.jpg.vec
+./samples/45.jpg.vec
+./samples/19.jpg.vec
+./samples/36.jpg.vec
+./samples/15.jpg.vec
+./samples/2.jpg.vec
+./samples/52.jpg.vec

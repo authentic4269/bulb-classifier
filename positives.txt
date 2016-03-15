@@ -1,0 +1,10 @@
+./fluorescent_basic/2.jpg
+./fluorescent_basic/11.jpg
+./fluorescent_basic/52.jpg
+./fluorescent_basic/36.jpg
+./fluorescent_basic/41.jpg
+./fluorescent_basic/19.jpg
+./fluorescent_basic/9.jpg
+./fluorescent_basic/45.jpg
+./fluorescent_basic/15.jpg
+./fluorescent_basic/16.jpg
