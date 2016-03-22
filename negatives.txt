@@ -1,4 +1,4 @@
-./streetview_backgrounds
+./streetview_backgrounds/
 ./streetview_backgrounds/4.png
 ./streetview_backgrounds/29.png
 ./streetview_backgrounds/26.png
