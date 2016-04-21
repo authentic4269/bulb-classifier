@@ -5,4 +5,4 @@ opencv_traincascade -data classifier -vec samples.vec -bg negatives.txt
 
 perl bin/createsamples.pl positives.txt negatives.txt samples 1500\
   "opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle .3\
-  -maxyangle .3 maxzangle .3 -maxidev 40 -w 30 -h 30"
+  -maxyangle .3 maxzangle .3 -maxidev 40 -w 35 -h 80"
